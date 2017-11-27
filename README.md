@@ -30,7 +30,7 @@
 
 - Type `git checkout response` to switch to your response branch.
 
-- Finally, follow the directions given in `diagnostic.md`.
+- Finally, follow the directions given in [`diagnostic.md`](diagnostic.md).
 
 ## Submitting Your Solution
 
