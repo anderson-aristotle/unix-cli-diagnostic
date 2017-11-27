@@ -14,7 +14,7 @@
 
 -   Copy the `ssh` link shown on the top of the page.
 
-![Remotes](https://cloud.githubusercontent.com/assets/10408784/13907024/1ea37866-eebb-11e5-9a91-a1898e351c13.png)
+![Remotes](https://git.generalassemb.ly/storage/user/5693/files/217dfc06-d37e-11e7-94d5-dc2e5c39d7ab)
 
 -   Open your terminal and navigate to your wdi/diagnostics directory.
 
