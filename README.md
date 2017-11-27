@@ -22,9 +22,9 @@
     and hit enter. This will copy the repository from _git.generalassemb.ly_ to
     your current location.
 
--   `cd` into the `unix-cli-diagnostic` directory.
+![command_line](https://git.generalassemb.ly/storage/user/5693/files/c5b2c872-d380-11e7-8891-05ad982d5c4d)
 
-![command_line](https://cloud.githubusercontent.com/assets/10408784/16751980/9d7d8322-47ab-11e6-8b8b-62eebd2001e9.png)
+-   `cd` into the `unix-cli-diagnostic` directory.
 
 - Type `git branch response` to create a new branch.
 
