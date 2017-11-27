@@ -4,11 +4,11 @@
 
 ## Prerequisites
 
--   [Unix CLI](https://github.com/ga-wdi-boston/unix-cli)
+-   [Unix CLI](https://git.generalassemb.ly/ga-wdi-boston/unix-cli)
 
 ## Setup Instructions
 
--   Fork this repository to your GitHub account.
+-   Fork this repository to your GitHub Enterprise account.
 
 ![fork](https://cloud.githubusercontent.com/assets/10408784/16751964/6d58d6e2-47ab-11e6-8a30-8f37a80c337a.png)
 
@@ -18,8 +18,8 @@
 
 -   Open your terminal and navigate to your wdi/diagnostics directory.
 
--   Type `git clone ` + the URL that you just copied from GitHub.com, and hit
-enter. This will copy the repository from GitHub.com to your current location.
+-   Type `git clone ` + the URL that you just copied from git.generalassemb.ly, and hit
+enter. This will copy the repository from git.generalassemb.ly to your current location.
 
 -   cd into the `unix-cli-diagnostic` directory
 
@@ -39,7 +39,7 @@ enter. This will copy the repository from GitHub.com to your current location.
 
  Push your changes with `git push origin response`
 
-Finally, go back to the GitHub page for your fork (the place where you copied
+Finally, go back to the GitHub Enterprise page for your fork (the place where you copied
 the URL). Create a pull request.
 
 Your pull request description should contain a "fist to five" for comfort and
@@ -53,10 +53,10 @@ Clarity: 3
 I used Google and my class notes to help with this diagnostic.
 ```
 
-You may wish to refer to ["How do I submit diagnostics?"](https://github.com/ga-wdi-boston/meta/wiki/Diagnostics)
-and other [FAQs](https://github.com/ga-wdi-boston/meta/wiki/) related to
-[forking, cloning](https://github.com/ga-wdi-boston/meta/wiki/ForkAndClone),
-and [pull requests](https://github.com/ga-wdi-boston/meta/wiki/PullRequest).
+You may wish to refer to ["How do I submit diagnostics?"](https://git.generalassemb.ly/ga-wdi-boston/meta/wiki/Diagnostics)
+and other [FAQs](https://git.generalassemb.ly/ga-wdi-boston/meta/wiki/) related to
+[forking, cloning](https://git.generalassemb.ly/ga-wdi-boston/meta/wiki/ForkAndClone),
+and [pull requests](https://git.generalassemb.ly/ga-wdi-boston/meta/wiki/PullRequest).
 
 You may use **any resource** other than each other to complete this diagnostic.
 This includes referencing talk materials, appropriate documentation, and
