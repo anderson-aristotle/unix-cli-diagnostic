@@ -4,7 +4,7 @@
 
 Carry out all of the following tasks using _only the command line_! As is
 usually the case, you're welcome to use any resource you can find (except
-another student, of course) to reach your answer.
+another developer, of course) to reach your answer.
 
 ## Navigating the Filesystem
 
