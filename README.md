@@ -4,47 +4,50 @@
 
 ## Prerequisites
 
--   [Unix CLI](https://github.com/ga-wdi-boston/unix-cli)
+-   [Unix CLI](https://git.generalassemb.ly/ga-wdi-boston/unix-cli)
 
 ## Setup Instructions
 
--   Fork this repository to your GitHub account.
+-   Fork this repository to your GitHub Enterprise account.
 
 ![fork](https://cloud.githubusercontent.com/assets/10408784/16751964/6d58d6e2-47ab-11e6-8a30-8f37a80c337a.png)
 
 -   Copy the `ssh` link shown on the top of the page.
 
-![Remotes](https://cloud.githubusercontent.com/assets/10408784/13907024/1ea37866-eebb-11e5-9a91-a1898e351c13.png)
+![Remotes](https://git.generalassemb.ly/storage/user/5693/files/217dfc06-d37e-11e7-94d5-dc2e5c39d7ab)
 
--   Open your terminal and navigate to your wdi/diagnostics directory.
+-   Open your terminal and navigate to your `wdi/diagnostics` directory.
 
--   Type `git clone ` + the URL that you just copied from GitHub.com, and hit
-enter. This will copy the repository from GitHub.com to your current location.
+-   Type `git clone ` + the URL that you just copied from _git.generalassemb.ly_
+    and hit enter. This will copy the repository from _git.generalassemb.ly_ to
+    your current location.
 
--   cd into the `unix-cli-diagnostic` directory
+![command_line](https://git.generalassemb.ly/storage/user/5693/files/c5b2c872-d380-11e7-8891-05ad982d5c4d)
 
-![command_line](https://cloud.githubusercontent.com/assets/10408784/16751980/9d7d8322-47ab-11e6-8b8b-62eebd2001e9.png)
+-   `cd` into the `unix-cli-diagnostic` directory.
 
--Type `git branch response` to create a new branch.
+- Type `git branch response` to create a new branch.
 
--Type `git checkout response` to switch to your response branch.
+- Type `git checkout response` to switch to your response branch.
 
--Finally, follow the directions given in `diagnostic.md`.
+- Finally, follow the directions given in [`diagnostic.md`](diagnostic.md).
 
 ## Submitting Your Solution
 
- Stage your files with: `git add <"Filename">`
+- Stage your files with: `git add <"Filename">`.
 
- Commit your changes with `git commit` (leave a good commit message)
+- Commit your changes with `git commit` (leave a good commit message).
 
- Push your changes with `git push origin response`
+- Push your changes with `git push origin response`.
 
-Finally, go back to the GitHub page for your fork (the place where you copied
-the URL). Create a pull request.
+- Finally, go back to the GitHub Enterprise page for your fork (the place where
+  you copied the URL). Create a pull request.
 
 Your pull request description should contain a "fist to five" for comfort and
 clarity. Additionally, you should mention the resources you used to help you
-complete this diagnostic. For example:
+complete this diagnostic.
+
+For example:
 
 ```md
 Comfort: 3
@@ -53,10 +56,11 @@ Clarity: 3
 I used Google and my class notes to help with this diagnostic.
 ```
 
-You may wish to refer to ["How do I submit diagnostics?"](https://github.com/ga-wdi-boston/meta/wiki/Diagnostics)
-and other [FAQs](https://github.com/ga-wdi-boston/meta/wiki/) related to
-[forking, cloning](https://github.com/ga-wdi-boston/meta/wiki/ForkAndClone),
-and [pull requests](https://github.com/ga-wdi-boston/meta/wiki/PullRequest).
+You may wish to refer to
+["How do I submit diagnostics?"](https://git.generalassemb.ly/ga-wdi-boston/meta/wiki/Diagnostics)
+and other [FAQs](https://git.generalassemb.ly/ga-wdi-boston/meta/wiki/) related to
+[forking, cloning](https://git.generalassemb.ly/ga-wdi-boston/meta/wiki/ForkAndClone),
+and [pull requests](https://git.generalassemb.ly/ga-wdi-boston/meta/wiki/PullRequest).
 
 You may use **any resource** other than each other to complete this diagnostic.
 This includes referencing talk materials, appropriate documentation, and

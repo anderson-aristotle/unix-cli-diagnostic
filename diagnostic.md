@@ -1,12 +1,10 @@
-![General Assembly Logo](http://i.imgur.com/ke8USTq.png)
+[![General Assembly Logo](https://camo.githubusercontent.com/1a91b05b8f4d44b5bbfb83abac2b0996d8e26c92/687474703a2f2f692e696d6775722e636f6d2f6b6538555354712e706e67)](https://generalassemb.ly/education/web-development-immersive)
 
 # Unix/CLI Diagnostic
 
-## Challenge
-
 Carry out all of the following tasks using _only the command line_! As is
 usually the case, you're welcome to use any resource you can find (except
-another student, of course) to reach your answer.
+another developer, of course) to reach your answer.
 
 ## Navigating the Filesystem
 
@@ -19,44 +17,55 @@ this repository (`unix-cli-diagnostic`).
 
 3. Open `rhyme.txt` using Atom (via the terminal) and add the following text:
 
- "The rain in Spain falls mainly in the plain."
+    ```md
+     "The rain in Spain falls mainly in the plain."
+    ```
+    Once you've done this, save the file and quit Atom.
 
- Once you've done this, save the file and quit.
-
-4. Make a directory inside `cli-diagnostic` called `temp`. Inside it, create a new blank file called `temp.md`.
+4. Make a directory inside `cli-diagnostic` called `temp`. Inside it, create a
+   new blank file called `temp.md`.
 
 Navigate back up to `unix-cli-diagnostic` directory.
-Using Atom, open up `diagnostic.md` and write your answers below (where indicated).
+Using Atom, open up `diagnostic.md` and write your answers below
+(where indicated).
 
-5. Great Work!  Back in the terminal, do  `git status` to view your changes.  What color is the file name?
+5. Great Work! Back in the terminal, do `git status` to view your changes. What
+   color is the file name?
 
- <!-- Answer Starts Here -->
+    ```md
+    <!-- your answer here -->
+    ```
 
- <!-- Answer Ends Here -->
+6. Do `git add <file_name>` to stage your changes. Do `git status` again to see
+   the newly staged file. What color is the file name now?
 
-6. Do `git add <file_name>`  to stage your changes.  Do `git status` again to see the newly staged file.  What color is the file name now?
+    ```md
+    <!-- your answer here -->
+    ```
 
- <!-- Answer Starts Here -->
+7. Let's commit these changes with `git commit <file_name>` and the commit
+   message of `add temp.md and associated folders`.
 
- <!-- Answer Ends Here -->
+8. Navigate back up to `cli-diagnostic` and delete the `temp` directory (with
+   `temp.md` inside of it). Use `ls` to show the contents of
+   `cli-diagnostic` - was `temp` deleted?
 
-7. Let's commit these changes with `git commit <file_name>` and the commit message of `add temp.md and associated folders`.
+    ```md
+    <!-- your answer here -->
+    ```
 
-8. Navigate back up to `cli-diagnostic`, and delete the `temp` directory (with `temp.md` inside of it). Use `ls` to show the contents of `cli-diagnostic` - was `temp` deleted?
-
-<!-- Answer Starts Here -->
-
-<!-- Answer Ends Here -->
-
-9.  Let's commit our changes, Do  `git status` to view your changes.  Do `git add <file_name>`  to stage your changes.  Commit these changes with `git commit <file_name>` and the commit message of `remove temp folder`.
+9. Let's commit our changes. Do `git status` to view your changes. Do
+   `git add <file_name>` to stage your changes. Commit these changes with
+   `git commit <file_name>` and the commit message of `remove temp folder`.
 
 ## Absolute and Relative Paths
 
-1. Is `/Users/blah_blah/Desktop` a relative path or an absolute path? How do you know?
+1. Is `/Users/blah_blah/Desktop` a relative path or an absolute path? How do you
+   know?
 
- <!-- Answer Starts Here -->
-
- <!-- Answer Ends Here -->
+    ```md
+    <!-- your answer here -->
+    ```
 
  2. Given:
 ```sh
@@ -68,17 +77,19 @@ Using Atom, open up `diagnostic.md` and write your answers below (where indicate
 └── planning
 ```
 
-If we are in the `project` directory and use `cd planning`, is a relative or absolute path being referenced? How do you know?
+If we are in the `project` directory and use `cd planning`, is a relative or
+absolute path being referenced? How do you know?
 
- <!-- Answer Starts Here -->
+```md
+<!-- your answer here -->
+```
 
- <!-- Answer Ends Here -->
+3. Now suppose that we have an image file living inside our project. Would we
+   refer to it with an absolute or relative path? Why?
 
-3. Now suppose that we have an image file living inside our project. Would we refer to it with an absolute or relative path? Why?
-
- <!-- Answer Starts Here -->
-
- <!-- Answer Ends Here -->
+    ```md
+    <!-- your answer here -->
+    ```
 
 <hr>
 
