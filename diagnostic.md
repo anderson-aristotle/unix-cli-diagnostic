@@ -20,14 +20,14 @@ this repository (`unix-cli-diagnostic`).
     ```md
      "The rain in Spain falls mainly in the plain."
     ```
-    Once you've done this, save the file and quit Atom.
+    - Once you've done this, save the file and quit Atom.
 
 4. Make a directory inside `cli-diagnostic` called `temp`. Inside it, create a
    new blank file called `temp.md`.
 
-Navigate back up to `unix-cli-diagnostic` directory.
-Using Atom, open up `diagnostic.md` and write your answers below
-(where indicated).
+    - Navigate back up to `unix-cli-diagnostic` directory.
+    Using Atom, open up `diagnostic.md` and write your answers below
+    (where indicated).
 
 5. Great Work! Back in the terminal, do `git status` to view your changes. What
    color is the file name?
@@ -47,7 +47,7 @@ Using Atom, open up `diagnostic.md` and write your answers below
    both a header, `Add files and directories`, and a body,
    `Add rhyme.txt, temp.md, and associated directories`.
 
-8. Navigate back up to `cli-diagnostic` and delete the `temp` directory (with
+8. Navigate back down to `cli-diagnostic` and delete the `temp` directory (with
    `temp.md` inside of it). Use `ls` to show the contents of
    `cli-diagnostic` - was `temp` deleted?
 
@@ -71,21 +71,21 @@ Using Atom, open up `diagnostic.md` and write your answers below
     ```
 
  2. Given:
-```sh
-~/project
-├── css
-├── data
-├── img
-├── js
-└── planning
-```
+    ```sh
+    ~/project
+    ├── css
+    ├── data
+    ├── img
+    ├── js
+    └── planning
+    ```
 
-If we are in the `project` directory and use `cd planning`, is a relative or
-absolute path being referenced? How do you know?
+    If we are in the `project` directory and use `cd planning`, is a relative or
+    absolute path being referenced? How do you know?
 
-```md
-<!-- your answer here -->
-```
+    ```md
+    <!-- your answer here -->
+    ```
 
 3. Now suppose that we have an image file living inside our project. Would we
    refer to it with an absolute or relative path? Why?
