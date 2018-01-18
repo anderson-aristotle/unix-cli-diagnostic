@@ -43,8 +43,9 @@ Using Atom, open up `diagnostic.md` and write your answers below
     <!-- your answer here -->
     ```
 
-7. Let's commit these changes with `git commit` and the commit
-   message of `add temp.md and associated folders`.
+7. Let's commit these changes with `git commit` and the commit consisting of
+   both a header, `Add files and directories`, and a body,
+   `Add rhyme.txt, temp.md, and associated directories`.
 
 8. Navigate back up to `cli-diagnostic` and delete the `temp` directory (with
    `temp.md` inside of it). Use `ls` to show the contents of
@@ -56,7 +57,9 @@ Using Atom, open up `diagnostic.md` and write your answers below
 
 9. Let's commit our changes. Do `git status` to view your changes. Do
    `git add <file_name>` to stage your changes. Commit these changes with
-   `git commit` and the commit message of `remove temp folder`.
+   `git commit` and the commit consisting of both a header,
+   `Remove temp directory`, and a body,
+   `Remove directory and all files located within`.
 
 ## Absolute and Relative Paths
 
