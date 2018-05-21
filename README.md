@@ -16,7 +16,7 @@
 
 ![Remotes](https://git.generalassemb.ly/storage/user/5693/files/217dfc06-d37e-11e7-94d5-dc2e5c39d7ab)
 
-- Open your terminal and navigate to your `wdi/diagnostics` directory.
+- Open your terminal and navigate to your `wdi/diagnostics/` directory.
 
 - Type `git clone` + the URL that you just copied from _git.generalassemb.ly_
   and hit enter. This will copy the repository from _git.generalassemb.ly_ to
@@ -24,7 +24,7 @@
 
 ![command_line](https://git.generalassemb.ly/storage/user/5693/files/c5b2c872-d380-11e7-8891-05ad982d5c4d)
 
-- `cd` into the `unix-cli-diagnostic` directory.
+- `cd` into the `unix-cli-diagnostic/` directory.
 
 - Type `git branch response` to create a new branch.
 
