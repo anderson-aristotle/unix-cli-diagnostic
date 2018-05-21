@@ -10,54 +10,54 @@ another developer, of course) to reach your answer.
 
 Complete each of following steps, **in order** :
 
-1. Create a new directory called `cli-diagnostic` inside the root directory of
-this repository (`unix-cli-diagnostic`).
+1. Create a new directory called `cli-diagnostic/` inside the root directory of
+  this repository (`unix-cli-diagnostic/`).
 
-2. Create a new file inside `cli-diagnostic` called `rhyme.txt`.
+1. Create a new file inside `cli-diagnostic/` called `rhyme.txt`.
 
-3. Open `rhyme.txt` using Atom (via the terminal) and add the following text:
+1. Open `rhyme.txt` using Atom (via the terminal) and add the following text:
 
     ```md
      "The rain in Spain falls mainly in the plain."
     ```
     - Once you've done this, save the file and quit Atom.
 
-4. Make a directory inside `cli-diagnostic` called `temp`. Inside it, create a
+1. Make a directory inside `cli-diagnostic/` called `temp/`. Inside it, create a
    new blank file called `temp.md`.
 
-    - Navigate back up to `unix-cli-diagnostic` directory.
+    - Navigate back up to `unix-cli-diagnostic/` directory.
     Using Atom, open up `diagnostic.md` and write your answers below
     (where indicated).
 
-5. Great Work! Back in the terminal, do `git status` to view your changes. What
+1. Great Work! Back in the terminal, do `git status` to view your changes. What
    color is the file name?
 
     ```md
     <!-- your answer here -->
     ```
 
-6. Do `git add <file_name>` to stage your changes. Do `git status` again to see
+1. Do `git add <file_name>` to stage your changes. Do `git status` again to see
    the newly staged file. What color is the file name now?
 
     ```md
     <!-- your answer here -->
     ```
 
-7. Let's commit these changes with `git commit` and the commit consisting of
+1. Let's commit these changes with `git commit`. The commit can consist of
    both a header, `Add files and directories`, and a body,
    `Add rhyme.txt, temp.md, and associated directories`.
 
-8. Navigate back down to `cli-diagnostic` and delete the `temp` directory (with
-   `temp.md` inside of it). Use `ls` to show the contents of
-   `cli-diagnostic` - was `temp` deleted?
+1. Navigate back down to `cli-diagnostic/` and delete the `temp/` directory
+   (with `temp.md` inside of it). Use `ls` to show the contents of
+   `cli-diagnostic/` - was `temp/` deleted?
 
     ```md
     <!-- your answer here -->
     ```
 
-9. Let's commit our changes. Do `git status` to view your changes. Do
+1. Let's commit our changes. Do `git status` to view your changes. Do
    `git add <file_name>` to stage your changes. Commit these changes with
-   `git commit` and the commit consisting of both a header,
+   `git commit`. This commit can consist of both a header,
    `Remove temp directory`, and a body,
    `Remove directory and all files located within`.
 
@@ -70,7 +70,8 @@ this repository (`unix-cli-diagnostic`).
     <!-- your answer here -->
     ```
 
- 2. Given:
+1. Given:
+
     ```sh
     ~/project
     ├── css
@@ -87,13 +88,11 @@ this repository (`unix-cli-diagnostic`).
     <!-- your answer here -->
     ```
 
-3. Now suppose that we have an image file living inside our project. Would we
+1. Now suppose that we have an image file living inside our project. Would we
    refer to it with an absolute or relative path? Why?
 
     ```md
     <!-- your answer here -->
     ```
-
-<hr>
 
 You're done! Refer back to README.md.
