@@ -4,27 +4,27 @@
 
 ## Prerequisites
 
--   [Unix CLI](https://git.generalassemb.ly/ga-wdi-boston/unix-cli)
+- [Unix CLI](https://git.generalassemb.ly/ga-wdi-boston/unix-cli)
 
 ## Setup Instructions
 
--   Fork this repository to your GitHub Enterprise account.
+- Fork this repository to your GitHub Enterprise account.
 
 ![fork](https://cloud.githubusercontent.com/assets/10408784/16751964/6d58d6e2-47ab-11e6-8a30-8f37a80c337a.png)
 
--   Copy the `ssh` link shown on the top of the page.
+- Copy the `ssh` link shown on the top of the page.
 
 ![Remotes](https://git.generalassemb.ly/storage/user/5693/files/217dfc06-d37e-11e7-94d5-dc2e5c39d7ab)
 
--   Open your terminal and navigate to your `wdi/diagnostics` directory.
+- Open your terminal and navigate to your `wdi/diagnostics/` directory.
 
--   Type `git clone ` + the URL that you just copied from _git.generalassemb.ly_
-    and hit enter. This will copy the repository from _git.generalassemb.ly_ to
-    your current location.
+- Type `git clone` + the URL that you just copied from _git.generalassemb.ly_
+  and hit enter. This will copy the repository from _git.generalassemb.ly_ to
+  your current location.
 
 ![command_line](https://git.generalassemb.ly/storage/user/5693/files/c5b2c872-d380-11e7-8891-05ad982d5c4d)
 
--   `cd` into the `unix-cli-diagnostic` directory.
+- `cd` into the `unix-cli-diagnostic/` directory.
 
 - Type `git branch response` to create a new branch.
 
@@ -68,6 +68,6 @@ searching for help online.
 
 ## [License](LICENSE)
 
-1.  All content is licensed under a CC­BY­NC­SA 4.0 license.
-1.  All software code is licensed under GNU GPLv3. For commercial use or
+1. All content is licensed under a CC­BY­NC­SA 4.0 license.
+1. All software code is licensed under GNU GPLv3. For commercial use or
     alternative licensing, please contact legal@ga.co.
