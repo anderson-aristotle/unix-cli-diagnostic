@@ -29,7 +29,7 @@ Complete each of following steps, **in order** :
     (where indicated).
 
 1. Great Work! Back in the terminal, do `git status` to view your changes. What
-   color is the file name?
+   color is the directory name?
 
     ```md
     <!-- your answer here -->
