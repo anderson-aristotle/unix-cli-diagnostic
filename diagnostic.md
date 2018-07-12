@@ -17,9 +17,8 @@ Complete each of following steps, **in order** :
 
 1. Open `rhyme.txt` using Atom (via the terminal) and add the following text:
 
-    ```md
      "The rain in Spain falls mainly in the plain."
-    ```
+
     - Once you've done this, save the file and quit Atom.
 
 1. Make a directory inside `cli-diagnostic/` called `temp/`. Inside it, create a
