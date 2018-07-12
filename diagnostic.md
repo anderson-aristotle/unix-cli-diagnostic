@@ -47,8 +47,8 @@ Complete each of following steps, **in order** :
    `Add rhyme.txt, temp.md, and associated directories`.
 
 1. Navigate back down to `cli-diagnostic/` and delete the `temp/` directory
-   (with `temp.md` inside of it). Use `ls` to show the contents of
-   `cli-diagnostic/` - was `temp/` deleted?
+   (with `temp.md` inside of it) with the `rm` command. Use `ls` to show the contents of
+   `cli-diagnostic/` - was `temp/` deleted? Explain your answer.
 
     ```md
     <!-- your answer here -->
