@@ -17,9 +17,8 @@ Complete each of following steps, **in order** :
 
 1. Open `rhyme.txt` using Atom (via the terminal) and add the following text:
 
-    ```md
      "The rain in Spain falls mainly in the plain."
-    ```
+
     - Once you've done this, save the file and quit Atom.
 
 1. Make a directory inside `cli-diagnostic/` called `temp/`. Inside it, create a
@@ -30,7 +29,7 @@ Complete each of following steps, **in order** :
     (where indicated).
 
 1. Great Work! Back in the terminal, do `git status` to view your changes. What
-   color is the file name?
+   color is the directory name?
 
     ```md
     <!-- your answer here -->
@@ -48,8 +47,8 @@ Complete each of following steps, **in order** :
    `Add rhyme.txt, temp.md, and associated directories`.
 
 1. Navigate back down to `cli-diagnostic/` and delete the `temp/` directory
-   (with `temp.md` inside of it). Use `ls` to show the contents of
-   `cli-diagnostic/` - was `temp/` deleted?
+   (with `temp.md` inside of it) with the `rm` command. Use `ls` to show the contents of
+   `cli-diagnostic/` - was `temp/` deleted? Explain your answer.
 
     ```md
     <!-- your answer here -->
